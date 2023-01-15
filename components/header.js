@@ -8,7 +8,7 @@ const header = () => {
           <input className="input-text" type="text" placeholder="search..." />
         </div>
         <div className="shrink w-80 sm:order-2">
-          <a>Design</a>
+          <a className="text-3xl font-bold uppercase">Design</a>
         </div>
         <div className="flex justify-center order-3 w-96 ">
           <div className="flex gap-6">
